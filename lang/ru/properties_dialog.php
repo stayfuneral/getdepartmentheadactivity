@@ -1,1 +1,3 @@
-<?$MESS["GDHA_DEPARTMENT"] = "Отдел";
+<?php
+
+$MESS["GDHA_DEPARTMENT"] = "Отдел";
